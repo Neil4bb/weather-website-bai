@@ -507,7 +507,7 @@
                   "id": "5nGUE",
                   "name": "card2Title",
                   "fill": "#E6ECEB",
-                  "content": "Today's Highlights",
+                  "content": "Today & Tomorrow's Highlights",
                   "fontFamily": "Inter",
                   "fontSize": 16,
                   "fontWeight": "normal"
@@ -732,8 +732,8 @@
                           "type": "frame",
                           "id": "8UnOM",
                           "name": "tomorrowRainChance",
-                          "width": 120,
-                          "height": 65,
+                          "width": 249,
+                          "height": 70,
                           "fill": "#24302F",
                           "cornerRadius": 12,
                           "stroke": {
@@ -749,7 +749,7 @@
                               "y": 33,
                               "name": "value",
                               "fill": "#E6ECEB",
-                              "content": "32°C",
+                              "content": "60%",
                               "fontFamily": "Inter",
                               "fontSize": 18,
                               "fontWeight": "normal"
@@ -761,47 +761,7 @@
                               "y": 8,
                               "name": "label",
                               "fill": "#9FB2B0",
-                              "content": "Max Temperture",
-                              "fontFamily": "Inter",
-                              "fontSize": 12,
-                              "fontWeight": "normal"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "2TLOa",
-                          "name": "tomorrowRainChance",
-                          "width": 120,
-                          "height": 65,
-                          "fill": "#24302F",
-                          "cornerRadius": 12,
-                          "stroke": {
-                            "align": "inside",
-                            "thickness": 1
-                          },
-                          "layout": "none",
-                          "children": [
-                            {
-                              "type": "text",
-                              "id": "s3ArT",
-                              "x": 12,
-                              "y": 33,
-                              "name": "value",
-                              "fill": "#E6ECEB",
-                              "content": "20°C",
-                              "fontFamily": "Inter",
-                              "fontSize": 18,
-                              "fontWeight": "normal"
-                            },
-                            {
-                              "type": "text",
-                              "id": "U7apN",
-                              "x": 12,
-                              "y": 8,
-                              "name": "label",
-                              "fill": "#9FB2B0",
-                              "content": "Min Temperture",
+                              "content": "Chance of Rain",
                               "fontFamily": "Inter",
                               "fontSize": 12,
                               "fontWeight": "normal"
