@@ -1,6 +1,5 @@
-import { CWA_API_KEY } from "./config.js";
 const BASE_URL = "https://opendata.cwa.gov.tw/api/v1/rest/datastore";
-const AUTH = CWA_API_KEY;
+const AUTH = "rdec-key-123-45678-011121314";
 
 function ok(renderData) {
   return { ok: true, renderData };
