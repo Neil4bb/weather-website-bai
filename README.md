@@ -4,11 +4,11 @@
 
 **Home頁面**
 
-![Home頁面](https://github.com/rachelL-tech/weather-website/blob/develop/design/website_png%20/Home.png)
+![Home頁面](https://github.com/rachelL-tech/weather-website/blob/develop/design/website_png/Home.png)
 
 **Forcast頁面**
 
-![Forcast頁面](https://github.com/rachelL-tech/weather-website/blob/develop/design/website_png%20/Forecast.png)
+![Forcast頁面](https://github.com/rachelL-tech/weather-website/blob/develop/design/website_png/Forecast.png)
 
 -   新增.gitignore
 
@@ -18,7 +18,7 @@
 ## 1/27 映叡
 -   修改home頁面的card2 layout
 
-![Home頁面 card2](https://github.com/rachelL-tech/weather-website/blob/develop/design/website_png%20/card2-modified.png)
+![Home頁面 card2](https://github.com/rachelL-tech/weather-website/blob/develop/design/website_png/card2-modified.png)
 
 ## 1/27 佳弘
 -   完成fetch資料的共用函式
