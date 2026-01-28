@@ -92,7 +92,7 @@ export async function getCard2RenderData(city) {
 
     // 溫度條固定 10~35
     const RANGE_MIN = 10;
-    const RANGE_MAX = 35;
+    const RANGE_MAX = 25;
     const range = RANGE_MAX - RANGE_MIN;
     const clamp = (x) => Math.min(RANGE_MAX, Math.max(RANGE_MIN, x));
 
